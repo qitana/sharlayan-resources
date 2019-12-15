@@ -149,12 +149,11 @@
   },
   {
     "Key": "CAMERA",
-    "Value": "4885C0740A488BC8E8882E3B00EB03488BC6488BC8488905",
+    "Value": "488B11FF9260010000440FB6B604500200488D0D",
     "ASMSignature": true,
     "PointerPath": [
       0,
       0,
-      88,
       0
     ]
   }
