@@ -228,12 +228,12 @@
   },
   "TargetInfo": {
     "Size": 9200,
-    "SourceSize": 216,
-    "Current": 16,
-    "MouseOver": 0,
-    "Previous": 160,
-    "Focus": 136,
-    "CurrentID": 208
+    "SourceSize": 512,
+    "Current": 176,
+    "MouseOver": 208, 
+    "Previous": 272,
+    "Focus": 248,
+    "CurrentID": 320
   },
   "CameraInfo": {
     "Heading": 308,
