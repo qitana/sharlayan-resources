@@ -1,11 +1,11 @@
 [
   {
     "Key": "TARGET",
-    "Value": "41bc000000e041bd01000000493bc47555488d0d",
+    "Value": "e8f2652f0084c00f8591010000488d0d",
     "ASMSignature": true,
     "PointerPath": [
       0,
-      112
+      0
     ]
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "Key": "CHARMAP",
-    "Value": "488b420848c1e8033da701000077248bc0488d0d",
+    "Value": "48c1ea0381faa7010000****8bc2488d0d",
     "ASMSignature": true,
     "PointerPath": [
       0,
@@ -149,7 +149,7 @@
   },
   {
     "Key": "CAMERA",
-    "Value": "488B11FF9260010000440FB6B604500200488D0D",
+    "Value": "803FE8C901000033D2C68740040000FF488D0D",
     "ASMSignature": true,
     "PointerPath": [
       0,
