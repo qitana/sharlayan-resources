@@ -172,10 +172,16 @@
       "Perception": 628
   },
   "EnmityItem": {
+    "SourceSize": 8,
+    "Name": 0, // Deprecated
+    "ID": 0,
+    "Enmity": 4
+  },
+  "AgroItem": {
     "SourceSize": 72,
-    "Name": 0,
-    "ID": 64,
-    "Enmity": 68
+    "Name": 0, // Deprecated
+    "ID": 56,
+    "Enmity": 60
   },
   "HotBarItem": {
     "ContainerSize": 3456,
