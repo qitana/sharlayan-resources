@@ -46,10 +46,10 @@
     "GrandCompanyRank": 6363, // ???
     "DifficultyRank": 6367, // ???
     "AgroFlags": 6382, /// ???
-    "CombatFlags": 6407,
-    "IsCasting1": 6878,
-    "IsCasting2": 6880,
-    "CastingID": 6882,
+    "CombatFlags": 6406,
+    "IsCasting1": 3880,
+    "IsCasting2": 6882,
+    "CastingID": 6884,
     "CastingTargetID": 6896,
     "CastingProgress": 6932,
     "CastingTime": 6936
