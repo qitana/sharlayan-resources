@@ -38,21 +38,21 @@
     "CPCurrent": 6318,
     "CPMax": 6320, 
     "Title": 6322,
-    "Job": 6358,
-    "Level": 6360,
-    "Icon": 6362,
-    "Status": 6362, // icon?
+    "Job": 6362,
+    "Level": 6364,
+    "Icon": 6366,
+    "Status": 6366, // icon?
     "GrandCompany": 6363, // ???
     "GrandCompanyRank": 6363, // ???
     "DifficultyRank": 6367, // ???
     "AgroFlags": 6382, /// ???
-    "CombatFlags": 6401,
-    "IsCasting1": 7230,
-    "IsCasting2": 7232,
-    "CastingID": 7234,
-    "CastingTargetID": 7248,
-    "CastingProgress": 7284,
-    "CastingTime": 7288
+    "CombatFlags": 6407,
+    "IsCasting1": 6878,
+    "IsCasting2": 6880,
+    "CastingID": 6882
+    "CastingTargetID": 6896
+    "CastingProgress": 6932,
+    "CastingTime": 6936
   },
   "StatusItem": {
     "SourceSize": 12,
