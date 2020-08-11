@@ -184,8 +184,8 @@
     "Enmity": 60
   },
   "HotBarItem": {
-    "ContainerSize": 3456,
-    "ItemSize": 216,
+    "ContainerSize": 3584,
+    "ItemSize": 224,
     "Name": 0,
     "KeyBinds": 103,
     "ID": 150
