@@ -49,8 +49,8 @@
     "CombatFlags": 6407,
     "IsCasting1": 6878,
     "IsCasting2": 6880,
-    "CastingID": 6882
-    "CastingTargetID": 6896
+    "CastingID": 6882,
+    "CastingTargetID": 6896,
     "CastingProgress": 6932,
     "CastingTime": 6936
   },
