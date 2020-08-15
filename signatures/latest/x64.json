@@ -30,20 +30,20 @@
   },
   {
     "Key": "PARTYMAP",
-    "Value": "488D7C242066660F1F840000000000488B17488D0D",
+    "Value": "8b7c24440fb66c2440400fb6d5488d0d",
     "ASMSignature": true,
     "PointerPath": [
       0,
-      752
+      0
     ]
   },
   {
     "Key": "PARTYCOUNT",
-    "Value": "CCCCCCCC803D******0100751D803D",
+    "Value": "8b7c24440fb66c2440400fb6d5488d0d",
     "ASMSignature": true,
     "PointerPath": [
       0,
-      1
+      15708 // (PartyMember.SourceSize * 28) + 28
     ]
   },
   {

@@ -191,32 +191,36 @@
     "ID": 150
   },
   "InventoryContainer": {
-    "Amount": 8
+	"ID": 8,
+	"Amount": 12
   },
   "InventoryItem": {
-    "Slot": 4,
-    "ID": 8,
     "Amount": 12,
-    "SB": 16,
     "Durability": 18,
+    "GlamourID": 48,
+    "ID": 8,
     "IsHQ": 20,
-    "GlamourID": 48
+    "SB": 16,
+    "Slot": 4,
+	"MateriaType": 32,
+	"MateriaRank": 42,
+	"DyeID": 47
   },
   "PartyMember": {
-    "SourceSize": 912,
-    "DefaultStatusEffectOffset": 152,
-    "X": 0,
-    "Y": 4,
-    "Z": 8,
-    "ID": 24,
-    "HPCurrent": 36,
-    "HPMax": 40,
-    "MPCurrent": 44,
-    "MPMax": 46,
-    "TPCurrent": 48,
-    "Name": 52,
-    "Job": 117,
-    "Level": 118
+    "SourceSize": 560,
+    "DefaultStatusEffectOffset": 8,
+    "X": 400,
+    "Y": 404,
+    "Z": 408,
+    "ID": 424,
+    "HPCurrent": 436,
+    "HPMax": 440,
+    "MPCurrent": 444,
+    "MPMax": 446,
+    "TPCurrent": 448,
+    "Name": 452,
+    "Job": 517,
+    "Level": 518
   },
   "RecastItem": {
     "ContainerSize": 1024,
