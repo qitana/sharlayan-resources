@@ -180,8 +180,8 @@
   "AgroItem": {
     "SourceSize": 72,
     "Name": 0, // Deprecated
-    "ID": 56,
-    "Enmity": 60
+    "ID": 64,
+    "Enmity": 68
   },
   "HotBarItem": {
     "ContainerSize": 3584,
