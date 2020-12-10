@@ -172,16 +172,10 @@
       "Perception": 628
   },
   "EnmityItem": {
-    "SourceSize": 8,
-    "Name": 0, // Deprecated
-    "ID": 0,
-    "Enmity": 4
-  },
-  "AgroItem": {
     "SourceSize": 72,
-    "Name": 0, // Deprecated
-    "ID": 56,
-    "Enmity": 60
+    "Name": 0,
+    "ID": 64,
+    "Enmity": 68
   },
   "HotBarItem": {
     "ContainerSize": 3584,
@@ -238,16 +232,11 @@
   },
   "TargetInfo": {
     "Size": 9200,
-    "SourceSize": 512,
-    "Current": 176,
-    "MouseOver": 208, 
-    "Previous": 272,
-    "Focus": 248,
-    "CurrentID": 320
-  },
-  "CameraInfo": {
-    "Heading": 304,
-    "Elevation": 308,
-    "Mode": 376
+    "SourceSize": 216,
+    "MouseOver": 0,
+    "Current": 16,
+    "Focus": 136,
+    "Previous": 160,
+    "CurrentID": 208
   }
 }
